@@ -1,0 +1,1 @@
+This program is open source. Anyone who likes to use this code is free to do so.
